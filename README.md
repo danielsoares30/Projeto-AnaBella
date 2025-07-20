@@ -7,7 +7,7 @@ Biografia: Uma página dedicada à história da atriz.
 
 Campanhas Publicitárias: Uma seção que demonstra os trabalhos publicitários realizados.
 
-Contato: Página com informações profissionais e um formulário para contato.
+Contato: Página com informações profissionais.
 
  ## 🛠️ Tecnologias e Habilidades Aplicadas
 Neste projeto, foram utilizadas as principais tecnologias de base para o desenvolvimento front-end, com foco na aplicação de conceitos fundamentais para a construção de sites modernos.
