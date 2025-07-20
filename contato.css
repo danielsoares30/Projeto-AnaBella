@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(img/fundo.png);
+}
+.container {
+  max-width: 895px; 
+  margin: 0 ;   
+  background-color: white; 
+}
+#informações{
+   display: flex;
+   justify-content: flex-start;
+    font-size: 15px;
+    padding: 20px;
+    background-color: darkgray; 
+    padding: 30px;
+    margin: -5px;
+    list-style-type: none;
+    
+}
+li a{
+    text-decoration: none;
+    color: black;
+    margin: 15px;
+}
+#teste{
+    display: block;
+    background-color: white;
+    max-width: 880px;
+    padding: 10px;
+}
+#titulo{
+    font-weight: bold;
+    display: flex;
+    margin: 20px;
+    font-size: 25px;
+}
+.p{
+    display: flex;
+    margin: 15px;
+}
+#rodape{
+    
+    padding: 30px;
+    display: block;
+    text-align: center;
+    max-width: 880px;
+}
